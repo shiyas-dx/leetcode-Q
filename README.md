@@ -22,9 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/shiyasdev/leetcode-Q/tree/master/0001-two-sum) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shiyasdev/leetcode-Q/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shiyasdev/leetcode-Q/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/shiyasdev/leetcode-Q/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
