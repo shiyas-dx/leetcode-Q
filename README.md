@@ -55,4 +55,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3663-find-the-least-frequent-digit](https://github.com/shiyasdev/leetcode-Q/tree/master/3663-find-the-least-frequent-digit) |
+## String
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/shiyasdev/leetcode-Q/tree/master/3174-clear-digits) |
+## Stack
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/shiyasdev/leetcode-Q/tree/master/3174-clear-digits) |
+## Simulation
+|  |
+| ------- |
+| [3174-clear-digits](https://github.com/shiyasdev/leetcode-Q/tree/master/3174-clear-digits) |
 <!---LeetCode Topics End-->
