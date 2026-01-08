@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3110-score-of-a-string](https://github.com/shiyasdev/leetcode-Q/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/shiyasdev/leetcode-Q/tree/master/3174-clear-digits) |
+| [3798-largest-even-number](https://github.com/shiyasdev/leetcode-Q/tree/master/3798-largest-even-number) |
 ## Stack
 |  |
 | ------- |
