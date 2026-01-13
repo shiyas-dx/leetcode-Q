@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shiyasdev/leetcode-Q/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0217-contains-duplicate](https://github.com/shiyasdev/leetcode-Q/tree/master/0217-contains-duplicate) |
 | [0287-find-the-duplicate-number](https://github.com/shiyasdev/leetcode-Q/tree/master/0287-find-the-duplicate-number) |
+| [2418-sort-the-people](https://github.com/shiyasdev/leetcode-Q/tree/master/2418-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/shiyasdev/leetcode-Q/tree/master/2706-buy-two-chocolates) |
 | [3663-find-the-least-frequent-digit](https://github.com/shiyasdev/leetcode-Q/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/shiyasdev/leetcode-Q/tree/master/3731-find-missing-elements) |
@@ -43,12 +44,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shiyasdev/leetcode-Q/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/shiyasdev/leetcode-Q/tree/master/0217-contains-duplicate) |
+| [2418-sort-the-people](https://github.com/shiyasdev/leetcode-Q/tree/master/2418-sort-the-people) |
 | [3663-find-the-least-frequent-digit](https://github.com/shiyasdev/leetcode-Q/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/shiyasdev/leetcode-Q/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/shiyasdev/leetcode-Q/tree/master/0217-contains-duplicate) |
+| [2418-sort-the-people](https://github.com/shiyasdev/leetcode-Q/tree/master/2418-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/shiyasdev/leetcode-Q/tree/master/2706-buy-two-chocolates) |
 | [3731-find-missing-elements](https://github.com/shiyasdev/leetcode-Q/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [2418-sort-the-people](https://github.com/shiyasdev/leetcode-Q/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/shiyasdev/leetcode-Q/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/shiyasdev/leetcode-Q/tree/master/3174-clear-digits) |
 | [3210-find-the-encrypted-string](https://github.com/shiyasdev/leetcode-Q/tree/master/3210-find-the-encrypted-string) |
