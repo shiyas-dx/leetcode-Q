@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/shiyasdev/leetcode-Q/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/shiyasdev/leetcode-Q/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/shiyasdev/leetcode-Q/tree/master/0326-power-of-three) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/shiyasdev/leetcode-Q/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/shiyasdev/leetcode-Q/tree/master/1716-calculate-money-in-leetcode-bank) |
 | [2235-add-two-integers](https://github.com/shiyasdev/leetcode-Q/tree/master/2235-add-two-integers) |
 | [3663-find-the-least-frequent-digit](https://github.com/shiyasdev/leetcode-Q/tree/master/3663-find-the-least-frequent-digit) |
