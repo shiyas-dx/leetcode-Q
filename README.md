@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/shiyasdev/leetcode-Q/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/shiyasdev/leetcode-Q/tree/master/0709-to-lower-case) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shiyasdev/leetcode-Q/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1592-rearrange-spaces-between-words](https://github.com/shiyasdev/leetcode-Q/tree/master/1592-rearrange-spaces-between-words) |
 | [1859-sorting-the-sentence](https://github.com/shiyasdev/leetcode-Q/tree/master/1859-sorting-the-sentence) |
 | [2418-sort-the-people](https://github.com/shiyasdev/leetcode-Q/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/shiyasdev/leetcode-Q/tree/master/3110-score-of-a-string) |
