@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/shiyasdev/leetcode-Q/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1592-rearrange-spaces-between-words](https://github.com/shiyasdev/leetcode-Q/tree/master/1592-rearrange-spaces-between-words) |
 | [1859-sorting-the-sentence](https://github.com/shiyasdev/leetcode-Q/tree/master/1859-sorting-the-sentence) |
+| [2390-removing-stars-from-a-string](https://github.com/shiyasdev/leetcode-Q/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/shiyasdev/leetcode-Q/tree/master/2418-sort-the-people) |
 | [3110-score-of-a-string](https://github.com/shiyasdev/leetcode-Q/tree/master/3110-score-of-a-string) |
 | [3174-clear-digits](https://github.com/shiyasdev/leetcode-Q/tree/master/3174-clear-digits) |
@@ -108,11 +109,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [2390-removing-stars-from-a-string](https://github.com/shiyasdev/leetcode-Q/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/shiyasdev/leetcode-Q/tree/master/3174-clear-digits) |
 ## Simulation
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/shiyasdev/leetcode-Q/tree/master/1929-concatenation-of-array) |
+| [2390-removing-stars-from-a-string](https://github.com/shiyasdev/leetcode-Q/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/2553-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/shiyasdev/leetcode-Q/tree/master/3174-clear-digits) |
 ## Greedy
