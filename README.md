@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/shiyasdev/leetcode-Q/tree/master/0007-reverse-integer) |
 | [0231-power-of-two](https://github.com/shiyasdev/leetcode-Q/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/shiyasdev/leetcode-Q/tree/master/0258-add-digits) |
 | [0326-power-of-three](https://github.com/shiyasdev/leetcode-Q/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/shiyasdev/leetcode-Q/tree/master/0371-sum-of-two-integers) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shiyasdev/leetcode-Q/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/shiyasdev/leetcode-Q/tree/master/0258-add-digits) |
 | [1929-concatenation-of-array](https://github.com/shiyasdev/leetcode-Q/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/shiyasdev/leetcode-Q/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/2553-separate-the-digits-in-an-array) |
@@ -165,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/shiyasdev/leetcode-Q/tree/master/1672-richest-customer-wealth) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/shiyasdev/leetcode-Q/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
