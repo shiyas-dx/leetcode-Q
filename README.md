@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shiyasdev/leetcode-Q/tree/master/0287-find-the-duplicate-number) |
 | [0912-sort-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/0912-sort-an-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shiyasdev/leetcode-Q/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1672-richest-customer-wealth](https://github.com/shiyasdev/leetcode-Q/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/shiyasdev/leetcode-Q/tree/master/1748-sum-of-unique-elements) |
 | [1929-concatenation-of-array](https://github.com/shiyasdev/leetcode-Q/tree/master/1929-concatenation-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/shiyasdev/leetcode-Q/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -152,4 +153,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/0912-sort-an-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/shiyasdev/leetcode-Q/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
