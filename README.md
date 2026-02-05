@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shiyasdev/leetcode-Q/tree/master/0287-find-the-duplicate-number) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shiyasdev/leetcode-Q/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shiyasdev/leetcode-Q/tree/master/0977-squares-of-a-sorted-array) |
+| [3794-reverse-string-prefix](https://github.com/shiyasdev/leetcode-Q/tree/master/3794-reverse-string-prefix) |
 ## Counting
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/shiyasdev/leetcode-Q/tree/master/3174-clear-digits) |
 | [3210-find-the-encrypted-string](https://github.com/shiyasdev/leetcode-Q/tree/master/3210-find-the-encrypted-string) |
 | [3340-check-balanced-string](https://github.com/shiyasdev/leetcode-Q/tree/master/3340-check-balanced-string) |
+| [3794-reverse-string-prefix](https://github.com/shiyasdev/leetcode-Q/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/shiyasdev/leetcode-Q/tree/master/3798-largest-even-number) |
 ## Stack
 |  |
