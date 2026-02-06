@@ -4,7 +4,7 @@ class Solution(object):
         :type sentence: str
         :rtype: bool
         """
-        return set("abcdefghijklmnopqrstuvwxyz") <= set(sentence)
+        # return set("abcdefghijklmnopqrstuvwxyz") <= set(sentence)
         res = set()
         for i in sentence:
             i = i.lower()
