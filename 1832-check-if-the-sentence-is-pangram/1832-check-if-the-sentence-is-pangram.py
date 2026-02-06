@@ -4,9 +4,10 @@ class Solution(object):
         :type sentence: str
         :rtype: bool
         """
-        res = set()
-        for i in sentence:
-            i = i.lower()
-            if 'a' <= i <= 'z':
-                res.add(i)
-        return len(res) == 26
+        return set("abcdefghijklmnopqrstuvwxyz") <= set(sentence)
+        # res = set()
+        # for i in sentence:
+        #     i = i.lower()
+        #     if 'a' <= i <= 'z':
+        #         res.add(i)
+        # return len(res) == 26
