@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shiyasdev/leetcode-Q/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shiyasdev/leetcode-Q/tree/master/0217-contains-duplicate) |
 | [0389-find-the-difference](https://github.com/shiyasdev/leetcode-Q/tree/master/0389-find-the-difference) |
+| [0771-jewels-and-stones](https://github.com/shiyasdev/leetcode-Q/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shiyasdev/leetcode-Q/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shiyasdev/leetcode-Q/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/shiyasdev/leetcode-Q/tree/master/1748-sum-of-unique-elements) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shiyasdev/leetcode-Q/tree/master/0389-find-the-difference) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/shiyasdev/leetcode-Q/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0709-to-lower-case](https://github.com/shiyasdev/leetcode-Q/tree/master/0709-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/shiyasdev/leetcode-Q/tree/master/0771-jewels-and-stones) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/shiyasdev/leetcode-Q/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1592-rearrange-spaces-between-words](https://github.com/shiyasdev/leetcode-Q/tree/master/1592-rearrange-spaces-between-words) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shiyasdev/leetcode-Q/tree/master/1684-count-the-number-of-consistent-strings) |
