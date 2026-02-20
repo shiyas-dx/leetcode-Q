@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0137-single-number-ii](https://github.com/shiyasdev/leetcode-Q/tree/master/0137-single-number-ii) |
+| [0190-reverse-bits](https://github.com/shiyasdev/leetcode-Q/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/shiyasdev/leetcode-Q/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/shiyasdev/leetcode-Q/tree/master/0287-find-the-duplicate-number) |
 | [0371-sum-of-two-integers](https://github.com/shiyasdev/leetcode-Q/tree/master/0371-sum-of-two-integers) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shiyasdev/leetcode-Q/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/shiyasdev/leetcode-Q/tree/master/0190-reverse-bits) |
 | [0912-sort-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
