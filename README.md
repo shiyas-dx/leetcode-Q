@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/shiyasdev/leetcode-Q/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/shiyasdev/leetcode-Q/tree/master/0326-power-of-three) |
 | [0371-sum-of-two-integers](https://github.com/shiyasdev/leetcode-Q/tree/master/0371-sum-of-two-integers) |
+| [0989-add-to-array-form-of-integer](https://github.com/shiyasdev/leetcode-Q/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shiyasdev/leetcode-Q/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/shiyasdev/leetcode-Q/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1716-calculate-money-in-leetcode-bank](https://github.com/shiyasdev/leetcode-Q/tree/master/1716-calculate-money-in-leetcode-bank) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/shiyasdev/leetcode-Q/tree/master/0540-single-element-in-a-sorted-array) |
 | [0912-sort-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/0912-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/shiyasdev/leetcode-Q/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/shiyasdev/leetcode-Q/tree/master/0989-add-to-array-form-of-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/shiyasdev/leetcode-Q/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/shiyasdev/leetcode-Q/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1480-running-sum-of-1d-array](https://github.com/shiyasdev/leetcode-Q/tree/master/1480-running-sum-of-1d-array) |
