@@ -5,10 +5,7 @@ class Solution(object):
         :type k: int
         :rtype: List[int]
         """
-        res=""
-        for i in num:
-            res+=str(i)
-        res1 = int(res)+k
-        res2 = list(str(res1))
-        res3 = [int(s) for s in res2]
-        return res3
+        res=[str(i) for i in num]
+        res1=list(str(int("".join(res))+k))
+        res2 = [int(s) for s in res1]
+        return res2
