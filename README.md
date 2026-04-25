@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2129-capitalize-the-title](https://github.com/shiyasdev/leetcode-Q/tree/master/2129-capitalize-the-title) |
 | [2255-count-prefixes-of-a-given-string](https://github.com/shiyasdev/leetcode-Q/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/shiyasdev/leetcode-Q/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
+| [2315-count-asterisks](https://github.com/shiyasdev/leetcode-Q/tree/master/2315-count-asterisks) |
 | [2390-removing-stars-from-a-string](https://github.com/shiyasdev/leetcode-Q/tree/master/2390-removing-stars-from-a-string) |
 | [2418-sort-the-people](https://github.com/shiyasdev/leetcode-Q/tree/master/2418-sort-the-people) |
 | [2942-find-words-containing-character](https://github.com/shiyasdev/leetcode-Q/tree/master/2942-find-words-containing-character) |
