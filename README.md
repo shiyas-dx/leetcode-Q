@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/shiyasdev/leetcode-Q/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shiyasdev/leetcode-Q/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shiyasdev/leetcode-Q/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/shiyasdev/leetcode-Q/tree/master/0290-word-pattern) |
 | [0387-first-unique-character-in-a-string](https://github.com/shiyasdev/leetcode-Q/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shiyasdev/leetcode-Q/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/shiyasdev/leetcode-Q/tree/master/0771-jewels-and-stones) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/shiyasdev/leetcode-Q/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/shiyasdev/leetcode-Q/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/shiyasdev/leetcode-Q/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/shiyasdev/leetcode-Q/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/shiyasdev/leetcode-Q/tree/master/0389-find-the-difference) |
