@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shiyasdev/leetcode-Q/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/shiyasdev/leetcode-Q/tree/master/0088-merge-sorted-array) |
 | [0137-single-number-ii](https://github.com/shiyasdev/leetcode-Q/tree/master/0137-single-number-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/shiyasdev/leetcode-Q/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shiyasdev/leetcode-Q/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shiyasdev/leetcode-Q/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/shiyasdev/leetcode-Q/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/shiyasdev/leetcode-Q/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/shiyasdev/leetcode-Q/tree/master/0268-missing-number) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/shiyasdev/leetcode-Q/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/shiyasdev/leetcode-Q/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/shiyasdev/leetcode-Q/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/shiyasdev/leetcode-Q/tree/master/0344-reverse-string) |
