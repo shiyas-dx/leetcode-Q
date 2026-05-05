@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/shiyasdev/leetcode-Q/tree/master/2418-sort-the-people) |
 | [3663-find-the-least-frequent-digit](https://github.com/shiyasdev/leetcode-Q/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/shiyasdev/leetcode-Q/tree/master/3731-find-missing-elements) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/shiyasdev/leetcode-Q/tree/master/3760-maximum-substrings-with-distinct-start) |
 ## Sorting
 |  |
 | ------- |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/shiyasdev/leetcode-Q/tree/master/3174-clear-digits) |
 | [3210-find-the-encrypted-string](https://github.com/shiyasdev/leetcode-Q/tree/master/3210-find-the-encrypted-string) |
 | [3340-check-balanced-string](https://github.com/shiyasdev/leetcode-Q/tree/master/3340-check-balanced-string) |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/shiyasdev/leetcode-Q/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/shiyasdev/leetcode-Q/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/shiyasdev/leetcode-Q/tree/master/3798-largest-even-number) |
 ## Stack
