@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/shiyasdev/leetcode-Q/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/shiyasdev/leetcode-Q/tree/master/0476-number-complement) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/shiyasdev/leetcode-Q/tree/master/1684-count-the-number-of-consistent-strings) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Recursion
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/shiyasdev/leetcode-Q/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/shiyasdev/leetcode-Q/tree/master/2942-find-words-containing-character) |
 | [3663-find-the-least-frequent-digit](https://github.com/shiyasdev/leetcode-Q/tree/master/3663-find-the-least-frequent-digit) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3731-find-missing-elements](https://github.com/shiyasdev/leetcode-Q/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2390-removing-stars-from-a-string](https://github.com/shiyasdev/leetcode-Q/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/2553-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/shiyasdev/leetcode-Q/tree/master/3174-clear-digits) |
+| [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 ## Greedy
 |  |
 | ------- |
