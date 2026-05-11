@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/shiyasdev/leetcode-Q/tree/master/2235-add-two-integers) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/shiyasdev/leetcode-Q/tree/master/2652-sum-multiples) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/shiyasdev/leetcode-Q/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3663-find-the-least-frequent-digit](https://github.com/shiyasdev/leetcode-Q/tree/master/3663-find-the-least-frequent-digit) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shiyasdev/leetcode-Q/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shiyasdev/leetcode-Q/tree/master/3783-mirror-distance-of-an-integer) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/shiyasdev/leetcode-Q/tree/master/2706-buy-two-chocolates) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shiyasdev/leetcode-Q/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2942-find-words-containing-character](https://github.com/shiyasdev/leetcode-Q/tree/master/2942-find-words-containing-character) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/shiyasdev/leetcode-Q/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3663-find-the-least-frequent-digit](https://github.com/shiyasdev/leetcode-Q/tree/master/3663-find-the-least-frequent-digit) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
 | [3731-find-missing-elements](https://github.com/shiyasdev/leetcode-Q/tree/master/3731-find-missing-elements) |
