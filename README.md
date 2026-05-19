@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-count-prefixes-of-a-given-string](https://github.com/shiyasdev/leetcode-Q/tree/master/2255-count-prefixes-of-a-given-string) |
 | [2418-sort-the-people](https://github.com/shiyasdev/leetcode-Q/tree/master/2418-sort-the-people) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
+| [2540-minimum-common-value](https://github.com/shiyasdev/leetcode-Q/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/2553-separate-the-digits-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/shiyasdev/leetcode-Q/tree/master/2706-buy-two-chocolates) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/shiyasdev/leetcode-Q/tree/master/2798-number-of-employees-who-met-the-target) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/shiyasdev/leetcode-Q/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/shiyasdev/leetcode-Q/tree/master/0349-intersection-of-two-arrays) |
 | [0540-single-element-in-a-sorted-array](https://github.com/shiyasdev/leetcode-Q/tree/master/0540-single-element-in-a-sorted-array) |
+| [2540-minimum-common-value](https://github.com/shiyasdev/leetcode-Q/tree/master/2540-minimum-common-value) |
 ## Hash Table
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-find-the-difference-of-two-arrays](https://github.com/shiyasdev/leetcode-Q/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/shiyasdev/leetcode-Q/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2418-sort-the-people](https://github.com/shiyasdev/leetcode-Q/tree/master/2418-sort-the-people) |
+| [2540-minimum-common-value](https://github.com/shiyasdev/leetcode-Q/tree/master/2540-minimum-common-value) |
 | [3663-find-the-least-frequent-digit](https://github.com/shiyasdev/leetcode-Q/tree/master/3663-find-the-least-frequent-digit) |
 | [3731-find-missing-elements](https://github.com/shiyasdev/leetcode-Q/tree/master/3731-find-missing-elements) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shiyasdev/leetcode-Q/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0557-reverse-words-in-a-string-iii](https://github.com/shiyasdev/leetcode-Q/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0977-squares-of-a-sorted-array](https://github.com/shiyasdev/leetcode-Q/tree/master/0977-squares-of-a-sorted-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/shiyasdev/leetcode-Q/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2540-minimum-common-value](https://github.com/shiyasdev/leetcode-Q/tree/master/2540-minimum-common-value) |
 | [3794-reverse-string-prefix](https://github.com/shiyasdev/leetcode-Q/tree/master/3794-reverse-string-prefix) |
 ## Counting
 |  |
