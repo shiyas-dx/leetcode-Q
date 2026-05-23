@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/shiyasdev/leetcode-Q/tree/master/3663-find-the-least-frequent-digit) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/shiyasdev/leetcode-Q/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3783-mirror-distance-of-an-integer](https://github.com/shiyasdev/leetcode-Q/tree/master/3783-mirror-distance-of-an-integer) |
+| [3894-traffic-signal-color](https://github.com/shiyasdev/leetcode-Q/tree/master/3894-traffic-signal-color) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shiyasdev/leetcode-Q/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/shiyasdev/leetcode-Q/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/shiyasdev/leetcode-Q/tree/master/3798-largest-even-number) |
+| [3894-traffic-signal-color](https://github.com/shiyasdev/leetcode-Q/tree/master/3894-traffic-signal-color) |
 ## Stack
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/2553-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/shiyasdev/leetcode-Q/tree/master/3174-clear-digits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3894-traffic-signal-color](https://github.com/shiyasdev/leetcode-Q/tree/master/3894-traffic-signal-color) |
 ## Greedy
 |  |
 | ------- |
