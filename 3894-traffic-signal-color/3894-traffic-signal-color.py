@@ -4,11 +4,11 @@ class Solution(object):
         :type timer: int
         :rtype: str
         """
-        if timer == 0:
+        if timer==0:
             return "Green"
-        elif timer == 30:
+        elif timer==30:
             return "Orange"
-        elif 30 < timer <= 90:
+        elif 30<timer<=90:
             return "Red"
         else:
             return "Invalid"
