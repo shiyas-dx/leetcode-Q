@@ -198,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shiyasdev/leetcode-Q/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/shiyasdev/leetcode-Q/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/shiyasdev/leetcode-Q/tree/master/3798-largest-even-number) |
+| [3856-trim-trailing-vowels](https://github.com/shiyasdev/leetcode-Q/tree/master/3856-trim-trailing-vowels) |
 | [3894-traffic-signal-color](https://github.com/shiyasdev/leetcode-Q/tree/master/3894-traffic-signal-color) |
 ## Stack
 |  |
