@@ -4,12 +4,15 @@ class Solution(object):
         :type n: int
         :rtype: int
         """
+        if n<=999:
+            return 0
+        return n-999
+        
+        # c = 0
 
-        c = 0
-
-        for i in range(1,n+1):
-            c += (len(str(i))-1) // 3
-        return (c)
+        # for i in range(1,n+1):
+        #     c += (len(str(i))-1) // 3
+        # return (c)
 
 
         # c = 0
