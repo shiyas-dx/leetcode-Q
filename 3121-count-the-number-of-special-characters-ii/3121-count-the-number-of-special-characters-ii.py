@@ -16,8 +16,6 @@ class Solution(object):
             else:
                 pass
 
-        
-
         up = set(up)
         low = set(low)
 
