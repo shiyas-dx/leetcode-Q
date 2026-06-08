@@ -5,5 +5,5 @@ class Solution(object):
         :type k: int
         :rtype: str
         """
-        words = s.split(" ")
+        words = s.split()
         return " ".join(words[:k])
