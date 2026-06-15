@@ -12,4 +12,5 @@ class Solution(object):
                 even -= nums[i]
             else:
                 odd -= nums[i]
+        
         return abs(even) - abs(odd)
