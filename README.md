@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3663-find-the-least-frequent-digit](https://github.com/shiyasdev/leetcode-Q/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/shiyasdev/leetcode-Q/tree/master/3668-restore-finishing-order) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3701-compute-alternating-sum](https://github.com/shiyasdev/leetcode-Q/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/shiyasdev/leetcode-Q/tree/master/3731-find-missing-elements) |
 ## Binary Search
 |  |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/2553-separate-the-digits-in-an-array) |
 | [3174-clear-digits](https://github.com/shiyasdev/leetcode-Q/tree/master/3174-clear-digits) |
 | [3688-bitwise-or-of-even-numbers-in-an-array](https://github.com/shiyasdev/leetcode-Q/tree/master/3688-bitwise-or-of-even-numbers-in-an-array) |
+| [3701-compute-alternating-sum](https://github.com/shiyasdev/leetcode-Q/tree/master/3701-compute-alternating-sum) |
 | [3894-traffic-signal-color](https://github.com/shiyasdev/leetcode-Q/tree/master/3894-traffic-signal-color) |
 ## Greedy
 |  |
