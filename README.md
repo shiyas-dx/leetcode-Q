@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/shiyasdev/leetcode-Q/tree/master/2540-minimum-common-value) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/shiyasdev/leetcode-Q/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/shiyasdev/leetcode-Q/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/shiyasdev/leetcode-Q/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/shiyasdev/leetcode-Q/tree/master/3663-find-the-least-frequent-digit) |
 | [3668-restore-finishing-order](https://github.com/shiyasdev/leetcode-Q/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/shiyasdev/leetcode-Q/tree/master/3731-find-missing-elements) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1684-count-the-number-of-consistent-strings](https://github.com/shiyasdev/leetcode-Q/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1748-sum-of-unique-elements](https://github.com/shiyasdev/leetcode-Q/tree/master/1748-sum-of-unique-elements) |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/shiyasdev/leetcode-Q/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/shiyasdev/leetcode-Q/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3663-find-the-least-frequent-digit](https://github.com/shiyasdev/leetcode-Q/tree/master/3663-find-the-least-frequent-digit) |
 ## String
 |  |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/shiyasdev/leetcode-Q/tree/master/3174-clear-digits) |
 | [3210-find-the-encrypted-string](https://github.com/shiyasdev/leetcode-Q/tree/master/3210-find-the-encrypted-string) |
 | [3340-check-balanced-string](https://github.com/shiyasdev/leetcode-Q/tree/master/3340-check-balanced-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/shiyasdev/leetcode-Q/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/shiyasdev/leetcode-Q/tree/master/3760-maximum-substrings-with-distinct-start) |
 | [3794-reverse-string-prefix](https://github.com/shiyasdev/leetcode-Q/tree/master/3794-reverse-string-prefix) |
 | [3798-largest-even-number](https://github.com/shiyasdev/leetcode-Q/tree/master/3798-largest-even-number) |
